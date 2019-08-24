@@ -1,0 +1,12 @@
+mkdir Fundamentosdeprogramacion
+mkdir Calculo
+mkdir Algebra
+mkdir Quimica
+mkdir FundamentosdeFisica
+touch
+ls
+echo
+echo "texto" >> archivo.txt
+cat 
+cd ..
+cd carpeta
