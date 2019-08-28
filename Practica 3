@@ -1,0 +1,55 @@
+PROBLEMA 1
+Dado un precio calcular su descuento considerando que si el precio es mayor a 100 el descuento será del 10% de otro modo descontar solo un 2%.
+
+        Etapa 1. DATOS DE ENTRADA 
+
+        Precio, descuento 
+
+        Etapa 2. PROCESO
+
+        Precio>100=Precio*0.10= Descuento1 
+        Precio<100=Precio *0.02=Descuento2
+
+        Etapa3. DATOS DE SALIDA 
+
+        Aplicar el descuento al precio original
+        Precio-Descuento(1 a 2)=Precio de Salida 
+
+PROBLEMA 2
+Un algoritmo que lea dos numeros y calcule su suma, resta, división y multiplicación de esos dos numeros
+
+         Etapa 1. DATOS DE ENTRADA
+         
+         num1, num2, suma, resta, multiplicacion y division
+         
+         Etapa 2. PROCESO
+         
+         -suma: num1+num2
+         -resta: num1-num2
+         -division: num1/num2
+         -multiplicacion: num1*num2
+         
+         Etapa 3:DATOS DE SALIDA
+         
+         Resultado: suma
+         Resultado: resta
+         Resultado: division
+         Resultado: multiplicacion 
+         
+PROBLEMA 3
+Leer tres numeros que van a denotar una fecha (día, mes y año) verificar si es una fecha valida 
+
+         Etapa 1. DATOS DE ENTRADA
+         
+         NUM1, NUM2, NUM3
+         *Nota num1 de dos digitos para dia, num2 de dos digitos para mes, num3 de cuatro digitos para año*
+         
+         Etapa2. PROCESO
+         
+         Leer num2, debe ser mayor o igual a 1 y menor o igual a 31
+         Leer num2, debe ser mayor igual a 1 y menor o igual a 12
+         leer numero3
+         Num1 de 1 a 31, num2 debe ser 01,03,05,07,08,10,12
+         num1 a 28, num2 debe ser 02
+         num1 de 1 a 30, num2 Debe ser 04, 06, 09, 11
+         
